@@ -13,9 +13,9 @@
     "module": "es2020",
     "lib": ["es2018", "dom"],
     "paths": {
-      "angular2-signaturepad": [
-        "dist/angular2-signaturepad/angular2-signaturepad",
-        "dist/angular2-signaturepad"
+      "ahasan-angular2-signaturepad": [
+        "dist/ahasan-angular2-signaturepad/ahasan-angular2-signaturepad",
+        "dist/ahasan-angular2-signaturepad"
       ]
     }
   },
